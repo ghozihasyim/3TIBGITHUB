@@ -10,7 +10,10 @@
     <form id="form1" runat="server">
     <div>
     
-        Buka sikit JOS</div>
+        Buka sikit JOS<br />
+        <asp:Button ID="Button1" runat="server" Text="Button" />
+    
+    </div>
     </form>
 </body>
 </html>
